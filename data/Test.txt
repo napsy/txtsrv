@@ -1,0 +1,4 @@
+= Hello, World =
+Greetings to this simple example used to demonstrate the conversion form a TXT file into pure HTML. The converter supports some simple tags like [[links|http://example.com]] and support for other tags will come shortly.
+== Author ==
+This minimalistic converter was designed for fun by [[me|http://napotnik.info]] to experiment and learn the [[Go Programming language|http://golang.org]]. Feel free to use this converter as you wish.

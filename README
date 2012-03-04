@@ -1,0 +1,7 @@
+================
+txtserver
+================
+
+Is a small text file server a la wiki. The text files are parsed to HTML before they are sent to clients.
+
+
